@@ -1,0 +1,4 @@
+apis:
+  openNotifyUrl: 'http://api.open-notify.org/iss-now.json'
+  geoJsUrl: 'https://get.geojs.io/v1/ip/geo/'
+
